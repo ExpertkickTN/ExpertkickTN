@@ -2,7 +2,7 @@
 
 _**Automation Testing & Python Expert**_
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fathi Saidani - Automation Engineer | Python | QA Testing;Second+line+of+text)](https://git.io/typing-svg)
 [Website](https://fathi-saidani.fr) | [LinkedIn](https://www.linkedin.com/in/fathisaidani) | [GitHub](https://github.com/ExpertkickTN) | [Behance](https://www.behance.net/saidanifathi)
 
 ---
