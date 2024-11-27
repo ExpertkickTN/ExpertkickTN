@@ -1,14 +1,6 @@
-# <div style="text-align:center;">
-  <span style="font-size:2em; font-weight:bold; animation: blink 1.5s infinite;">Fathi Saidani - Automation Engineer | Python | QA Testing</span>
-</div>
+# **Fathi Saidani - Automation Engineer | Python | QA Testing**
 
-<style>
-  @keyframes blink {
-    0% { opacity: 1; }
-    50% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
+_**Automation Testing & Python Expert**_
 
 
 [Website](https://fathi-saidani.fr) | [LinkedIn](https://www.linkedin.com/in/fathisaidani) | [GitHub](https://github.com/ExpertkickTN) | [Behance](https://www.behance.net/saidanifathi)
