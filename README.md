@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fathi+Saidani+-+Automation+Engineer+;+Python+%7C+QA+Tester)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=1000&color=00F7DD&width=435&lines=Fathi+Saidani+-+Automation+Engineer+;+Python+%7C+QA+Tester)](https://git.io/typing-svg)
 
 _**Automation Testing & Python Expert**_
 
