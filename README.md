@@ -1,6 +1,16 @@
-# Fathi Saidani - Automation Engineer | Python | Docker | QA Testing
+# <div style="text-align:center;">
+  <span style="font-size:2em; font-weight:bold; animation: blink 1.5s infinite;">Fathi Saidani - Automation Engineer | Python | QA Testing</span>
+</div>
 
-![Profile Picture](https://avatars.githubusercontent.com/u/XXXXXX?v=4)  
+<style>
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
+
+
 [Website](https://fathi-saidani.fr) | [LinkedIn](https://www.linkedin.com/in/fathisaidani) | [GitHub](https://github.com/ExpertkickTN) | [Behance](https://www.behance.net/saidanifathi)
 
 ---
