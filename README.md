@@ -7,9 +7,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Design and Development Engineer** currently pursuing a degree in **Instrumentation and Industrial Maintenance Engineering** at the **National Institute of Applied Science and Technology**. I have a strong foundation in programming, automation testing, and cloud technologies, with a particular focus on **Python**, **Docker**, **QA Automation**, and **Machine Learning**.
+I am a **Design and Development Engineer** currently pursuing a degree in **Instrumentation and Industrial Maintenance Engineering** at the **National Institute of Applied Science and Technology**. I specialize in **QA Automation**, **Python**, **Docker**, and **Machine Learning**. I'm passionate about creating scalable automation frameworks and improving testing processes.
 
-I am currently working on a **Dockerized Python Automation Framework**, aiming to provide scalable and reusable environments for **QA Automation**. This project is built with a combination of tools such as **Selenium**, **Appium**, and **Robot Framework** in Docker containers for seamless testing.
+Currently, I am working on a **Dockerized Python Automation Framework**, which integrates various tools such as **Selenium**, **Appium**, and **Robot Framework** for seamless testing.
 
 ---
 
@@ -40,28 +40,40 @@ The **Dockerized Python Automation Framework** is designed to streamline and aut
 
 ---
 
-## 💼 Experience
+## 🎓 Education
 
-### **QA Automation Engineer Intern**  
-**Dassault Systèmes**  
-*March 2024 – August 2024 | Vélizy-Villacoublay, France*  
-- Developed and maintained test scripts for automation.
-- Integrated machine learning to predict test failures and reduce manual effort.
-- Created dashboards to visualize test results and analysis.
-- Worked with **Selenium**, **Robot Framework**, **Python**, and **CI/CD** tools like **GitLab** and **Jenkins**.
+### **Diploma in Instrumentation and Industrial Maintenance Engineering**  
+*National Institute of Applied Science and Technology (INSAT)*, Tunisia  
+*2019 – 2024*  
+- Specialization in **Aerodynamics** and **Artificial Intelligence**.
 
-### **AI Intern**  
-**Dräxlmaier Group**  
-*June 2023 – August 2023 | Monastir, Tunisia*  
-- Built a real-time **face recognition** system using **Google Cloud Firebase** and **Raspberry Pi**.
-- Developed a security alert system for unauthorized face recognition detection.
-- Technologies: **Python**, **OpenCV**, **SQLite**, **Deep Learning**.
+---
 
-### **Mechanical Design Intern**  
-**Hasdrubal Thalassa**  
-*June 2022 – August 2022 | Djerba, Tunisia*  
-- Developed **CAD** designs for a smart lock system.
-- Integrated **PLM** processes and worked on prototype development using **SolidWorks**.
+## 🧑‍💻 GitHub Stats
+
+![Fathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExpertkickTN&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical&hide_border=true)
+
+---
+
+## 📊 Most Used Languages
+
+![Fathi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ExpertkickTN&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🌍 Visitors Count
+
+![Profile Views](https://komarev.com/ghpvc/?username=ExpertkickTN&label=Profile%20Views&color=brightgreen)
+
+---
+
+## 🧑‍💻 Fun Facts About Me
+
+- 🏆 Placed in the top 40% in **Instagram Filters Making Competition** organized by **Meta Spark**.
+- 🌍 Traveled to **5 countries** and counting!
+- 🐍 Love **Python** programming and building automation frameworks.
+- 🎮 Avid gamer in my free time (mostly strategy games).
+- 🤖 Aspiring to build more **AI-based automation** projects.
 
 ---
 
@@ -81,12 +93,13 @@ Developed a mobile app that predicts horse illnesses and provides treatment sugg
 
 ---
 
-## 🎓 Education
+## 🌍 Languages
 
-### **Diploma in Instrumentation and Industrial Maintenance Engineering**  
-*National Institute of Applied Science and Technology (INSAT)*, Tunisia  
-*2019 – 2024*  
-- Specialization in **Aerodynamics** and **Artificial Intelligence**.
+- **English** – Advanced
+- **French** – Advanced
+- **Arabic** – Native
+- **Spanish** – Elementary
+- **German** – Elementary
 
 ---
 
@@ -99,16 +112,6 @@ Developed a mobile app that predicts horse illnesses and provides treatment sugg
 - **Version Control & CI/CD**: Git, GitHub, GitLab, Jenkins, Docker
 - **Machine Learning**: TensorFlow, Keras, Scikit-learn
 - **3D Design**: SolidWorks, Catia V5, Fusion 360
-
----
-
-## 🌍 Languages
-
-- **English** – Advanced
-- **French** – Advanced
-- **Arabic** – Native
-- **Spanish** – Elementary
-- **German** – Elementary
 
 ---
 
@@ -132,6 +135,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### **Contributions**
 Contributions are always welcome! If you have ideas, suggestions, or improvements, feel free to fork the repository and create a pull request. If you encounter any issues, please open an issue in the repository.
-
----
-
