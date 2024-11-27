@@ -1,86 +1,137 @@
-# Hi there, I'm Fathi Saidani 👋
+# Fathi Saidani - Automation Engineer | Python | Docker | QA Testing
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Fathi%20Saidani-blue)](https://fathi-saidani.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fathi%20Saidani-blue)](https://www.linkedin.com/in/fathi-saidani/)
-
-## 👨‍💻 About Me
-
-I'm Fathi, a passionate **QA Automation Engineer** based in [Country Name]. With a background in computer science, I specialize in building test automation frameworks, improving software quality, and ensuring seamless delivery in agile environments. I love exploring new technologies, especially in automation and continuous integration, and am always looking for opportunities to contribute to open-source projects.
-
-When I’m not working, I enjoy **problem-solving**, **mentoring junior engineers**, and experimenting with **new automation strategies** for both mobile and web applications.
-
-## 🛠 Technologies & Tools
-
-**Languages:**
-- Python
-- JavaScript
-- Java
-- SQL
-
-**Testing Frameworks:**
-- Selenium
-- Appium
-- Robot Framework
-- Pytest
-- Jasmine, Jest
-
-**CI/CD Tools:**
-- Jenkins
-- GitHub Actions
-- CircleCI
-- Travis CI
-
-**Version Control:**
-- Git
-- GitHub
-- GitLab
-
-**Containerization & Virtualization:**
-- Docker
-- Kubernetes
-
-**Other Tools & Libraries:**
-- Postman (API testing)
-- New Relic (Monitoring)
-- TestNG
-- JIRA (Issue tracking)
-- GitHub Actions (CI/CD)
-
-## 🔧 My Ongoing Projects
-
-- **Automation Framework for Web and Mobile Testing**: Developing a cross-platform test automation framework using **Selenium**, **Appium**, and **Pytest** to support both web and mobile applications.
-- **CI/CD Integration**: Enhancing the integration between **Jenkins**, **GitHub Actions**, and **Docker** to streamline continuous testing in production.
-- **Open Source Contributions**: Actively contributing to open-source projects focused on improving test automation tools.
-
-## 🎓 Certifications & Achievements
-
-- **Certified Selenium Tester** – [Selenium Official Certification]
-- **Certified Python Developer** – [Python Institute]
-- **AWS Certified Solutions Architect** – [Amazon Web Services]
-- **Docker Certified Associate** – [Docker, Inc.]
-- Contributed to multiple **open-source automation tools**.
-
-## 🏆 GitHub Stats
-
-![Fathi Saidani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=expertkicktn&show_icons=true&theme=radical)
-
-## 🚀 Top Repositories
-
-- **[AutomationFramework](https://github.com/ExpertkickTN/AutomationFramework)**: A reusable framework for automating web and mobile applications with Selenium and Appium.
-- **[TestAutomationLibrary](https://github.com/ExpertkickTN/TestAutomationLibrary)**: A collection of testing utilities and libraries in Python to enhance test execution and reporting.
-- **[DockerizedQA](https://github.com/ExpertkickTN/DockerizedQA)**: A Dockerized environment setup for automation testing that includes all necessary tools like Chrome, Selenium, and Appium.
-
-## 📫 How to Reach Me
-
-- Website: [fathi-saidani.fr](https://fathi-saidani.fr)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Fathi Saidani](https://www.linkedin.com/in/fathi-saidani/)
-- Twitter: [@FathiSaidani](https://twitter.com/FathiSaidani)
-- Medium: [@FathiSaidani](https://medium.com/@FathiSaidani)
+![Profile Picture](https://avatars.githubusercontent.com/u/XXXXXX?v=4)  
+[Website](https://fathi-saidani.fr) | [LinkedIn](https://www.linkedin.com/in/fathisaidani) | [GitHub](https://github.com/ExpertkickTN) | [Behance](https://www.behance.net/saidanifathi)
 
 ---
 
-### ⚡ Fun Fact
+## 👨‍💻 About Me
 
-I love to read about **Artificial Intelligence** and **Machine Learning**, and I'm working on learning how to integrate **AI** into automated testing to make test scripts smarter!
+I am a **Design and Development Engineer** currently pursuing a degree in **Instrumentation and Industrial Maintenance Engineering** at the **National Institute of Applied Science and Technology**. I have a strong foundation in programming, automation testing, and cloud technologies, with a particular focus on **Python**, **Docker**, **QA Automation**, and **Machine Learning**.
+
+I am currently working on a **Dockerized Python Automation Framework**, aiming to provide scalable and reusable environments for **QA Automation**. This project is built with a combination of tools such as **Selenium**, **Appium**, and **Robot Framework** in Docker containers for seamless testing.
+
+---
+
+## 🚀 Current Project - Dockerized Python Automation for QA
+
+### Project Overview
+
+The **Dockerized Python Automation Framework** is designed to streamline and automate various QA testing processes using Python in a Docker environment. This project ensures that automation tests are run in consistent, isolated environments, free from dependencies and local configurations.
+
+### Features
+- **Python-based Automation**: For unit, integration, and UI testing.
+- **Dockerized**: Automated testing environment for scalability and reproducibility.
+- **Headless Browsing**: ChromeDriver and Selenium tests run headlessly for speed.
+- **Multi-Tool Integration**: Includes **Selenium**, **Appium**, **Postman**, and **Robot Framework**.
+- **CI/CD Ready**: Seamlessly integrates into **CI/CD pipelines**.
+
+---
+
+## 🛠 Technologies & Tools
+
+- **Programming Languages**: Python, Bash, C, JavaScript, SQL, HTML5, CSS
+- **Automation Frameworks**: Selenium, Appium, Robot Framework, Postman
+- **Testing Tools**: Pytest, Pytest-BDD, Pytest-Cov, Tox, Newman, Flaky, Mock
+- **Containerization**: Docker, Docker Compose
+- **Cloud Platforms**: AWS, Google Cloud
+- **Version Control**: Git, GitHub, GitLab
+- **CI/CD Tools**: GitLab CI, Jenkins
+
+---
+
+## 💼 Experience
+
+### **QA Automation Engineer Intern**  
+**Dassault Systèmes**  
+*March 2024 – August 2024 | Vélizy-Villacoublay, France*  
+- Developed and maintained test scripts for automation.
+- Integrated machine learning to predict test failures and reduce manual effort.
+- Created dashboards to visualize test results and analysis.
+- Worked with **Selenium**, **Robot Framework**, **Python**, and **CI/CD** tools like **GitLab** and **Jenkins**.
+
+### **AI Intern**  
+**Dräxlmaier Group**  
+*June 2023 – August 2023 | Monastir, Tunisia*  
+- Built a real-time **face recognition** system using **Google Cloud Firebase** and **Raspberry Pi**.
+- Developed a security alert system for unauthorized face recognition detection.
+- Technologies: **Python**, **OpenCV**, **SQLite**, **Deep Learning**.
+
+### **Mechanical Design Intern**  
+**Hasdrubal Thalassa**  
+*June 2022 – August 2022 | Djerba, Tunisia*  
+- Developed **CAD** designs for a smart lock system.
+- Integrated **PLM** processes and worked on prototype development using **SolidWorks**.
+
+---
+
+## 📂 Projects
+
+### **Computerized Maintenance Management System**  
+Developed a web interface for predictive maintenance. Technologies: **React.js**, **Next.js**, **Prisma**, **PostgreSQL**, **Tailwind CSS**.
+
+### **Parking Assistant System**  
+Created a smart parking system using **ultrasonic sensors** and an **Arduino Mega**. Technologies: **C++**, **Ultrasonic Sensors**, **Mapping**, **Arduino**.
+
+### **Self-Driving Car**  
+Built an autonomous vehicle using **Donkey Car** with **TensorFlow** and **Keras**. Technologies: **Python**, **TensorFlow**, **Keras**, **Computer Vision**.
+
+### **Disease Detection for Horses**  
+Developed a mobile app that predicts horse illnesses and provides treatment suggestions. Technologies: **Flutter**, **Machine Learning**, **Firebase**, **IOT**.
+
+---
+
+## 🎓 Education
+
+### **Diploma in Instrumentation and Industrial Maintenance Engineering**  
+*National Institute of Applied Science and Technology (INSAT)*, Tunisia  
+*2019 – 2024*  
+- Specialization in **Aerodynamics** and **Artificial Intelligence**.
+
+---
+
+## 📝 Skills
+
+- **Programming Languages**: Python, C, C++, JavaScript, Java, SQL
+- **Automation Frameworks**: Selenium, Appium, Robot Framework, Postman
+- **Web Development**: React.js, Next.js, HTML5, CSS, Tailwind CSS
+- **Cloud Platforms**: AWS, Google Cloud
+- **Version Control & CI/CD**: Git, GitHub, GitLab, Jenkins, Docker
+- **Machine Learning**: TensorFlow, Keras, Scikit-learn
+- **3D Design**: SolidWorks, Catia V5, Fusion 360
+
+---
+
+## 🌍 Languages
+
+- **English** – Advanced
+- **French** – Advanced
+- **Arabic** – Native
+- **Spanish** – Elementary
+- **German** – Elementary
+
+---
+
+## 🧑‍💻 Contact Me
+
+Feel free to reach out to me for collaborations, project ideas, or opportunities:
+
+- 📧 Email: [fathi.saidani@insat.ucar.tn](mailto:fathi.saidani@insat.ucar.tn)
+- 🌍 [Personal Portfolio](https://fathi-saidani.fr)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fathisaidani)
+- 🐙 [GitHub](https://github.com/ExpertkickTN)
+- 🎨 [Behance](https://www.behance.net/saidanifathi)
+
+---
+
+## 🔖 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+### **Contributions**
+Contributions are always welcome! If you have ideas, suggestions, or improvements, feel free to fork the repository and create a pull request. If you encounter any issues, please open an issue in the repository.
+
+---
 
