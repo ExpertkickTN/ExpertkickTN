@@ -1,8 +1,6 @@
-# **Fathi Saidani - Automation Engineer | Python | QA Testing**
 
+#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fathi+Saidani+-+Automation+Engineer+;+Python+%7C+QA+Tester)](https://git.io/typing-svg)
 _**Automation Testing & Python Expert**_
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fathi+Saidani+-+Automation+Engineer+;+Python+%7C+QA+Tester)](https://git.io/typing-svg)
 [Website](https://fathi-saidani.fr) | [LinkedIn](https://www.linkedin.com/in/fathisaidani) | [GitHub](https://github.com/ExpertkickTN) | [Behance](https://www.behance.net/saidanifathi)
 
 ---
