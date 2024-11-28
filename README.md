@@ -9,7 +9,7 @@ _**Automation Testing & Python Expert**_
 
 ## 👨‍💻 About Me
 
-I am a **recently graduated Design and Development Engineer** with a degree in **Instrumentation and Industrial Maintenance Engineering** from the **National Institute of Applied Science and Technology**. I specialize in **QA Automation**, **Python**, **Docker**, and **Machine Learning**. I am passionate about creating scalable automation frameworks and optimizing testing processes.
+I am a **recently graduated Development and Research Engineer** with a degree in **Instrumentation and Industrial Maintenance Engineering** from the **National Institute of Applied Science and Technology**. I specialize in **QA Automation**, **Python**, **Docker**, and **Machine Learning**. I am passionate about creating scalable automation frameworks and optimizing testing processes.
 
 Currently, I am focused on a **Dockerized Python Automation Framework**, integrating tools such as **Selenium**, **Appium**, and **Robot Framework** to facilitate seamless testing.
 
