@@ -9,9 +9,9 @@ _**Automation Testing & Python Expert**_
 
 ## 👨‍💻 About Me
 
-I am a **Design and Development Engineer** currently pursuing a degree in **Instrumentation and Industrial Maintenance Engineering** at the **National Institute of Applied Science and Technology**. I specialize in **QA Automation**, **Python**, **Docker**, and **Machine Learning**. I'm passionate about creating scalable automation frameworks and improving testing processes.
+I am a **recently graduated Design and Development Engineer** with a degree in **Instrumentation and Industrial Maintenance Engineering** from the **National Institute of Applied Science and Technology**. I specialize in **QA Automation**, **Python**, **Docker**, and **Machine Learning**. I am passionate about creating scalable automation frameworks and optimizing testing processes.
 
-Currently, I am working on a **Dockerized Python Automation Framework**, which integrates various tools such as **Selenium**, **Appium**, and **Robot Framework** for seamless testing.
+Currently, I am focused on a **Dockerized Python Automation Framework**, integrating tools such as **Selenium**, **Appium**, and **Robot Framework** to facilitate seamless testing.
 
 ---
 
@@ -72,9 +72,9 @@ The **Dockerized Python Automation Framework** is designed to streamline and aut
 ## 🧑‍💻 Fun Facts About Me
 
 - 🏆 Placed in the top 40% in **Instagram Filters Making Competition** organized by **Meta Spark**.
-- 🌍 Traveled to **5 countries** and counting!
+- 🌍 Traveled to **4 countries** and counting!
 - 🐍 Love **Python** programming and building automation frameworks.
-- 🎮 Avid gamer in my free time (mostly strategy games).
+- 🎮 Avid gamer in my free time (mostly FPS games).
 - 🤖 Aspiring to build more **AI-based automation** projects.
 
 ---
@@ -121,7 +121,7 @@ Developed a mobile app that predicts horse illnesses and provides treatment sugg
 
 Feel free to reach out to me for collaborations, project ideas, or opportunities:
 
-- 📧 Email: [fathi.saidani@insat.ucar.tn](mailto:fathi.saidani@insat.ucar.tn)
+- 📧 Email: [contact@fathi-saidani.fr](mailto:contact@fathi-saidani.fr)
 - 🌍 [Personal Portfolio](https://fathi-saidani.fr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/fathisaidani)
 - 🐙 [GitHub](https://github.com/ExpertkickTN)
